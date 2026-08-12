@@ -1,1 +1,1 @@
-Project screenshots will be stored here.
+Project screenshots will be stored here
